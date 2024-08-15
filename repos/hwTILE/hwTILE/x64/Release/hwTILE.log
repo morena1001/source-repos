@@ -1,0 +1,7 @@
+﻿  main.cpp
+  tiling.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 861 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hwTILE.vcxproj -> C:\Users\josue\source\repos\hwTILE\x64\Release\hwTILE.exe

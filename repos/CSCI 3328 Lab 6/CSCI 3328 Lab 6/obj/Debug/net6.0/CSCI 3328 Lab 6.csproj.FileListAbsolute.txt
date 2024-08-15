@@ -1,0 +1,15 @@
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\bin\Debug\net6.0\CSCI 3328 Lab 6.exe
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\bin\Debug\net6.0\CSCI 3328 Lab 6.deps.json
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\bin\Debug\net6.0\CSCI 3328 Lab 6.runtimeconfig.json
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\bin\Debug\net6.0\CSCI 3328 Lab 6.dll
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\bin\Debug\net6.0\CSCI 3328 Lab 6.pdb
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.AssemblyInfo.cs
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.dll
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\refint\CSCI 3328 Lab 6.dll
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.pdb
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\CSCI 3328 Lab 6.genruntimeconfig.cache
+C:\Users\josue\source\repos\CSCI 3328 Lab 6\CSCI 3328 Lab 6\obj\Debug\net6.0\ref\CSCI 3328 Lab 6.dll

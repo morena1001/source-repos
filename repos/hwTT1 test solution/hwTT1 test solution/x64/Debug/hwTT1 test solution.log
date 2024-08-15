@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  trendtracker.cpp
+C:\Users\josue\source\repos\hwTT1 test solution\hwTT1 test solution\trendtracker.cpp(38,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  hwTT1 test solution.vcxproj -> C:\Users\josue\source\repos\hwTT1 test solution\x64\Debug\hwTT1 test solution.exe

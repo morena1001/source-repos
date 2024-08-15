@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ping Pong Game/1.0.0": {
+        "runtime": {
+          "Ping Pong Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ping Pong Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\josue\source\repos\hwPQ\hwPQ\minpriorityqueue.h(36,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\josue\source\repos\hwPQ\hwPQ\minpriorityqueue.h(35): message : while compiling class template member function 'int MinPriorityQueue<char>::size(void)'
+C:\Users\josue\source\repos\hwPQ\hwPQ\main.cpp(365): message : see reference to function template instantiation 'int MinPriorityQueue<char>::size(void)' being compiled
+C:\Users\josue\source\repos\hwPQ\hwPQ\main.cpp(363): message : see reference to class template instantiation 'MinPriorityQueue<char>' being compiled
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\josue\source\repos\hwPQ\hwPQ\minpriorityqueue.h(66): warning C4715: 'MinPriorityQueue<char>::front': not all control paths return a value
+C:\Users\josue\source\repos\hwPQ\hwPQ\minpriorityqueue.h(66): warning C4715: 'MinPriorityQueue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::front': not all control paths return a value
+  All 596 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hwPQ.vcxproj -> C:\Users\josue\source\repos\hwPQ\x64\Release\hwPQ.exe

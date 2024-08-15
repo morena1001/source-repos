@@ -1,0 +1,7 @@
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.Form1.resources
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.AssemblyInfo.cs
+C:\Users\josue\source\repos\SampleWindowsFormApp\SampleWindowsFormApp\obj\Debug\net6.0-windows\SampleWindowsFormApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\bin\Debug\net6.0-windows\JosueTaxCalculator.exe
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\bin\Debug\net6.0-windows\JosueTaxCalculator.deps.json
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\bin\Debug\net6.0-windows\JosueTaxCalculator.runtimeconfig.json
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\bin\Debug\net6.0-windows\JosueTaxCalculator.dll
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\bin\Debug\net6.0-windows\JosueTaxCalculator.pdb
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.AssemblyInfo.cs
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.dll
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\refint\JosueTaxCalculator.dll
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.pdb
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.genruntimeconfig.cache
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\ref\JosueTaxCalculator.dll
+C:\Users\josue\source\repos\JosueTaxCalculator\JosueTaxCalculator\obj\Debug\net6.0-windows\JosueTaxCalculator.btnCompute.resources

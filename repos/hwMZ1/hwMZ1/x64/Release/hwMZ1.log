@@ -1,0 +1,9 @@
+﻿  solve.cpp
+C:\Users\josue\source\repos\hwMZ1\hwMZ1\solve.cpp(61,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\josue\source\repos\hwMZ1\hwMZ1\solve.cpp(215,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  5 of 704 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hwMZ1.vcxproj -> C:\Users\josue\source\repos\hwMZ1\x64\Release\hwMZ1.exe

@@ -1,0 +1,21 @@
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.exe.config
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.exe
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.pdb
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csprojAssemblyReference.cache
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top_Down_Zombie_Shooter_Game.Form1.resources
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top_Down_Zombie_Shooter_Game.Properties.Resources.resources
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.GenerateResource.cache
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.exe
+C:\Users\Josue Flores\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.pdb
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.exe.config
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.exe
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\bin\Debug\Top Down Zombie Shooter Game.pdb
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top_Down_Zombie_Shooter_Game.Form1.resources
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top_Down_Zombie_Shooter_Game.Properties.Resources.resources
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.exe
+C:\Users\josue\source\repos\Top Down Zombie Shooter Game\obj\Debug\Top Down Zombie Shooter Game.pdb

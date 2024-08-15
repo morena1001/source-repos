@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 658 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Directed Graph Test.vcxproj -> C:\Users\josue\source\repos\Directed Graph Test\x64\Release\Directed Graph Test.exe

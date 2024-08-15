@@ -1,0 +1,71 @@
+TEAMS 20
+Audi 
+Castrol 
+Mustang 
+Blitz 
+Ford 
+DMK 
+Honda 
+Hypermax 
+Hyundai 
+Dr. Pepper 
+Mitsubishi 
+Nouveau 
+Nissan 
+GoPro 
+Peugeot 
+Citanes 
+Subaru 
+Bilstein 
+Toyota 
+Motul 
+
+DRIVERS 40
+Ebrahim Tate 
+Javan Underwood 
+Bradwn Atkins 
+Bibi Burke 
+Jonah Arias 
+Harris Mayo 
+Zacharia Heaton 
+Braiden Hubbard 
+Tre Amos 
+Inez Guzman 
+Sayed Wu 
+Dario Delarosa 
+Ifan Wilde 
+Massino Morley 
+Ralph Hawkins 
+Ishmael Swan 
+Alexis Clayton 
+Benjamin Amanpreet 
+Majorie Tillman 
+Howard McLean 
+Shayna Welch 
+Suzanna Bass 
+Marcos Rollins 
+Exmae Fernandez 
+Alba Galindo 
+Aisha Salazar 
+Anjali Keenan 
+Sahara Weaver 
+Labiah Massey 
+Idrees Thronton 
+Beyonce Lindsey 
+Samoa Vinson 
+Elise-May Singleton 
+Koby Humphrey 
+Amrita McCartny 
+Brayden Prosser 
+Mischa McFadden 
+Krisha Arnold 
+danica Kane 
+Aliyah Farmer 
+
+CALENDAR 6
+Colorado Springs
+Willow Springs International Raceway: Streets of Willow Springs
+Willow Springs International Raceway: Horse Theif Mile
+Fisherman's Ranch
+Sardegna
+Nurburgring Nordschleife

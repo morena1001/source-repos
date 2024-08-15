@@ -1,0 +1,16 @@
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.exe
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.deps.json
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.runtimeconfig.json
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.runtimeconfig.dev.json
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.dll
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\ref\Lab2-3328.dll
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\bin\Debug\net5.0\Lab2-3328.pdb
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.AssemblyInfo.cs
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.dll
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\ref\Lab2-3328.dll
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.pdb
+C:\Users\josue\source\repos\Lab2-3328\Lab2-3328\obj\Debug\net5.0\Lab2-3328.genruntimeconfig.cache

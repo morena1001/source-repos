@@ -1,0 +1,10 @@
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.csprojAssemblyReference.cache
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.Form1.resources
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.Properties.Resources.resources
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.csproj.GenerateResource.cache
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.csproj.CoreCompileInputs.cache
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\bin\Debug\SimpleSnakeGameS1.exe.config
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\bin\Debug\SimpleSnakeGameS1.exe
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\bin\Debug\SimpleSnakeGameS1.pdb
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.exe
+C:\Users\Josue Flores\source\repos\SimpleSnakeGameS1\obj\Debug\SimpleSnakeGameS1.pdb

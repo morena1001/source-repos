@@ -1,0 +1,16 @@
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.exe
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.deps.json
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.runtimeconfig.json
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.runtimeconfig.dev.json
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.dll
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\ref\question22and23.dll
+C:\Users\josue\source\repos\question22and23\question22and23\bin\Debug\net5.0\question22and23.pdb
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.AssemblyInfo.cs
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.dll
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\ref\question22and23.dll
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.pdb
+C:\Users\josue\source\repos\question22and23\question22and23\obj\Debug\net5.0\question22and23.genruntimeconfig.cache

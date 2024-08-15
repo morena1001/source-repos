@@ -1,0 +1,17 @@
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\bin\Debug\net6.0-windows\English To All Th'ama Languages.exe
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\bin\Debug\net6.0-windows\English To All Th'ama Languages.deps.json
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\bin\Debug\net6.0-windows\English To All Th'ama Languages.runtimeconfig.json
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\bin\Debug\net6.0-windows\English To All Th'ama Languages.dll
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\bin\Debug\net6.0-windows\English To All Th'ama Languages.pdb
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English_To_All_Th_ama_Languages.Form1.resources
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.AssemblyInfo.cs
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.dll
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\refint\English To All Th'ama Languages.dll
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.pdb
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\English To All Th'ama Languages.genruntimeconfig.cache
+C:\Users\josue\source\repos\English To All Th'ama Languages\English To All Th'ama Languages\obj\Debug\net6.0-windows\ref\English To All Th'ama Languages.dll

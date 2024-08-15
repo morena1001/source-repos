@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSCI 3328 Lab 6/1.0.0": {
+        "runtime": {
+          "CSCI 3328 Lab 6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSCI 3328 Lab 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

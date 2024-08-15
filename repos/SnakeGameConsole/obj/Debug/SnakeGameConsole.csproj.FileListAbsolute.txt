@@ -1,0 +1,15 @@
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe.config
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.pdb
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.csprojAssemblyReference.cache
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.exe
+C:\Users\Josue Flores\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.pdb
+C:\Users\josue\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe.config
+C:\Users\josue\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe
+C:\Users\josue\source\repos\SnakeGameConsole\bin\Debug\SnakeGameConsole.pdb
+C:\Users\josue\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.exe
+C:\Users\josue\source\repos\SnakeGameConsole\obj\Debug\SnakeGameConsole.pdb

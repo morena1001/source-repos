@@ -1,0 +1,32 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(90,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(91,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(92,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(93,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(93,2): error C2660: 'calcArea': function does not take 1 arguments
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(32,8): message : see declaration of 'calcArea'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(95,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(96,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(97,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(98,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(98,2): error C2660: 'calcArea': function does not take 1 arguments
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(32,8): message : see declaration of 'calcArea'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(100,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(101,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(102,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(103,2): error C2664: 'double calcLength(double &,double &,double &,double &)': cannot convert argument 1 from 'double' to 'double &'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,8): message : see declaration of 'calcLength'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(103,2): error C2660: 'calcArea': function does not take 1 arguments
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(32,8): message : see declaration of 'calcArea'
+C:\Users\josue\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(163,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data

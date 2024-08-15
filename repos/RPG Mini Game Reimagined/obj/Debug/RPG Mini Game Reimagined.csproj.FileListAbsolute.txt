@@ -1,0 +1,21 @@
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.exe.config
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.exe
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.pdb
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csprojAssemblyReference.cache
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG_Mini_Game_Reimagined.Form1.resources
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG_Mini_Game_Reimagined.Properties.Resources.resources
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.GenerateResource.cache
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.CoreCompileInputs.cache
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.exe
+C:\Users\Josue Flores\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.pdb
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.exe.config
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.exe
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\bin\Debug\RPG Mini Game Reimagined.pdb
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG_Mini_Game_Reimagined.Form1.resources
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG_Mini_Game_Reimagined.Properties.Resources.resources
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.exe
+C:\Users\josue\source\repos\RPG Mini Game Reimagined\obj\Debug\RPG Mini Game Reimagined.pdb

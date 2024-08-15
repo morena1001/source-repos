@@ -1,0 +1,5 @@
+﻿  main.cpp
+  trendtracker.cpp
+C:\Users\josue\source\repos\hwTT2\hwTT2\trendtracker.cpp(44,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  hwTT2.vcxproj -> C:\Users\josue\source\repos\hwTT2\x64\Debug\hwTT2.exe

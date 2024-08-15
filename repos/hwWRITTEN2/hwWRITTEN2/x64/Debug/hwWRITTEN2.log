@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\josue\source\repos\hwWRITTEN2\hwWRITTEN2\Source.cpp(99,30): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  hwWRITTEN2.vcxproj -> C:\Users\josue\source\repos\hwWRITTEN2\x64\Debug\hwWRITTEN2.exe

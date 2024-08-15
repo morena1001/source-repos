@@ -1,0 +1,10 @@
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\bin\Debug\Tic Tac Toe Game with CPU.exe.config
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\bin\Debug\Tic Tac Toe Game with CPU.exe
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\bin\Debug\Tic Tac Toe Game with CPU.pdb
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic_Tac_Toe_Game_with_CPU.Properties.Resources.resources
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.exe
+C:\Users\josue\source\repos\Tic Tac Toe Game with CPU\obj\Debug\Tic Tac Toe Game with CPU.pdb

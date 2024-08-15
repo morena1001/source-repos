@@ -1,0 +1,5 @@
+﻿  autocompleter.cpp
+C:\Users\josue\source\repos\hsAC2\hsAC2\autocompleter.cpp(28,35): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+  Generating Code...
+  hsAC2.vcxproj -> C:\Users\josue\source\repos\hsAC2\x64\Debug\hsAC2.exe
